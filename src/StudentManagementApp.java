@@ -54,7 +54,7 @@ public class StudentManagementApp extends JFrame {
         deptField.setBounds(150, 165, 180, 30);
         add(deptField);
 
-       
+
         cgpaLabel = new JLabel("CGPA:");
         cgpaLabel.setFont(labelFont);
         cgpaLabel.setBounds(40, 210, 110, 30);
